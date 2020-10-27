@@ -1,6 +1,6 @@
 # selenium-googler
 
-This is for doing a google search with selenium
+This is for doing a google search with selenium. The code is multi-platform and no need to add any dependencies to run.
 
 
 # build idea

@@ -2,18 +2,6 @@
 
 This is for doing a google search with selenium. The code is multi-platform and no need to add any dependencies to run.
 
-
-# build idea
-```
-[10:18:15] suraj:selenium-googler git:(master*) $ ./gradlew clean idea
-
-> Task :idea
-Generated IDEA project at file:///Users/suraj/workspace/selenium-googler/selenium-googler.ipr
-
-BUILD SUCCESSFUL in 0s
-5 actionable tasks: 5 executed
-```
-
 # running the app
 
 ```
@@ -26,4 +14,8 @@ BUILD SUCCESSFUL in 0s
 3 actionable tasks: 2 executed, 1 up-to-date
 [10:18:29] suraj:selenium-googler git:(master*) $
 ```
+
+# Demo video
+
+https://user-images.githubusercontent.com/1550099/224197118-c6db6e0b-2690-4f7c-9474-b06c4fa00c22.mp4
 
